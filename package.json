@@ -1,0 +1,26 @@
+{
+  "name": "no-install-puppeteer",
+  "version": "1.0.0",
+  "description": "Use Puppeteer without installing Puppeteer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/North-West-Wind/no-install-puppeteer.git"
+  },
+  "keywords": [
+    "puppeteer"
+  ],
+  "author": "NorthWestWind",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/North-West-Wind/no-install-puppeteer/issues"
+  },
+  "homepage": "https://github.com/North-West-Wind/no-install-puppeteer#readme",
+  "dependencies": {
+    "fetch-retry": "^4.1.0",
+    "node-fetch": "^2.6.1"
+  }
+}
