@@ -18,3 +18,8 @@ console.log(await nip(page => {
 ```
 If there is an error in the process, the package will throw the error.
 Else the package will return what you want it to return (if you actually made your function correctly. I'm not responsible for logic errors.)
+
+## Test
+```
+npm test
+```
